@@ -100,4 +100,3 @@ summary(rfP1)
 ## 1887 3113
 ```
 
-postResample(rfPred1,testSet$brand)
